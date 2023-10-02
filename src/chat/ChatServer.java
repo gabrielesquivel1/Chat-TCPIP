@@ -12,7 +12,7 @@ import java.net.ServerSocket;
  * @author DELL
  */
 public class ChatServer {
-    private final int PORT =4000;
+    protected static final int PORT =4000;
     private ServerSocket serverSocket;
     
     public void start() throws IOException{
