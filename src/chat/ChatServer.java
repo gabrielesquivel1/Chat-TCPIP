@@ -12,7 +12,7 @@ import java.net.Socket;
 
 /**
  *
- * @author DELL
+ * @author GabrielEsquivel
  */
 public class ChatServer {
     protected static final int PORT =4000;
