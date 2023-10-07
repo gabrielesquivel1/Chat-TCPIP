@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author DELL
+ * @author GabrielEsquivel
  */
 public class ChatClient {
     private Socket clientSocket;
